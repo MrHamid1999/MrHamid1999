@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrHamid1999
 - 👀 I’m interested in web developing
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me : hamidhabibiaa@gmail.com
 
